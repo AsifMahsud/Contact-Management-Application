@@ -1,0 +1,60 @@
+[
+  {
+      "id": 1,
+        "phoneNumber": [
+            "3908902"
+        ],
+        "email": [
+            "jamie@fox.com"
+        ],
+        "firstname": "Jamie",
+        "lastname": "Fox"
+  },
+  {
+      "id": 2,
+        "phoneNumber": [
+            "123123333"
+        ],
+        "email": [
+            "john@brown.com"
+        ],
+        "firstname": "John",
+        "lastname": "Brown"
+  },
+  {
+      "id": 3,
+        "phoneNumber": [
+            "3131131"
+        ],
+        "email": [
+            "John@jane.com"
+        ],
+        "firstname": "John",
+        "lastname": "Jane"
+  },
+  {
+      "id": 4,
+        "phoneNumber": [
+            "12122-043"
+        ],
+        "email": [
+            "Kaien@Burrell.Com"
+        ],
+        "firstname": "Kaien",
+        "lastname": "Burrell"
+  },
+  {
+      "id": 5,
+        "phoneNumber": [
+            "3333333331",
+            "3333333393",
+            "333333333333"
+        ],
+        "email": [
+            "randy@combs.com",
+            "rb@randyburrell.info"
+        ],
+        "firstname": "Randy",
+        "lastname": "combs"
+  }
+]

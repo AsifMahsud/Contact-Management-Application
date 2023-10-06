@@ -1,0 +1,46 @@
+test-results.xml
+
+.DS_Store
+node_modules
+/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+### Devskiller entries
+###
+### Please do not add anything below this line, your changes will be overwritten
+###
+*.iws
+*.launch
+.externalToolBuilders/
+__MACOSX/
+.idea/
+.nb-gradle/
+.project
+.settings/
+atlassian-ide-plugin.xml
+nbactions.xml
+nbbuild/
+nbdist/
+nbproject/private/
+.npm-debug.log
+tmp
