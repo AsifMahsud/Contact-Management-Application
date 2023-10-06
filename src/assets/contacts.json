@@ -1,4 +1,6 @@
-[
+data() {
+    return
+    [
   {
       "id": 1,
         "phoneNumber": [
@@ -58,3 +60,4 @@
         "lastname": "combs"
   }
 ]
+}
